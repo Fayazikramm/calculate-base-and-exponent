@@ -1,1 +1,0 @@
-# calculate-base-and-exponent
